@@ -175,6 +175,7 @@
       height: 43vw;
       border: 0.25vw solid #0f3d3d;
       text-align: left;
+      overflow: scroll;
     }
 
     .head {
